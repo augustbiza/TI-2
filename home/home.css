@@ -1,0 +1,36 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Radio Canada Big", sans-serif;
+  font-weight: 500;
+  background-color: rgb(227, 241, 241);
+}
+
+header {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+
+header h1 {
+  margin-left: 20px;
+  font-size: 25px;
+}
+
+#cad {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 10px;
+  margin-right: 20px;
+}
+
+
+#container_principal {
+  margin: 0 auto;
+  width: 40%;
+  background-color: darkturquoise;
+  border-radius: 20px;
+  height: 300px;
+}
